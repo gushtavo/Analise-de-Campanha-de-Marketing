@@ -94,7 +94,7 @@ e podemos observar que teve um aumento relevante do CPA nu ultimo mês confirman
 
 ## Gráficos
 
-- Esses gráficos Mostrar de forma visual o comportamento das métricas CPA e ROAS durante os meses
+- Esses gráficos mostram de forma visual o comportamento das métricas CPA e ROAS durante os meses
 - Podemos observar que existe um correlação inversa entre as duas métricas conforme o CPA aumenta o ROAS cai, isso significa que quanto mais a gente paga para fazer uma venda, menor é o nosso retorno, ou seja, a campanha não está trazendo um retorno esperado.
 
 <Figure size 640x480 with 1 Axes><img width="574" height="491" alt="image" src="https://github.com/user-attachments/assets/a45f5e40-e2c6-4b1a-ab73-1766af15fc24" />
