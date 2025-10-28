@@ -146,8 +146,8 @@ e podemos observar que teve um aumento relevante do CPA no ultimo mês confirman
       ctr           -0.811227
 ---
 
-- Já sabemos que a Métrica Frequência tem uma forte relação com o aumento do CPA, criei grupos de Frequências para comparar com CPA médio
-- Isso confirma nossa tese que quanto **maior a Frequência, maior será o CPA.**
+- Já sabemos que a Métrica Frequência tem uma forte relação com o aumento do CPA, então criei grupos de Frequências para comparar com o CPA médio
+- Esse gráfico confirma nossa tese que quanto **maior a Frequência, maior será o CPA.**
  
   <Figure size 640x480 with 1 Axes><img width="571" height="456" alt="image" src="https://github.com/user-attachments/assets/0ff1d6fa-7981-4e11-8290-2b900e2fe3e3" />
 
@@ -162,7 +162,7 @@ e podemos observar que teve um aumento relevante do CPA no ultimo mês confirman
 # 📌Conclusão
 
 - **Frequência é o vilão silencioso,** aumento de 60-80% do CPA quando ultrapassa 2.0.
-- **Fadiga de Anúncios:** Está relacionado a quantidade de vezes que a mesma pessoa vê o anúncio, ou seja, quando o público começa a ignorar ou perder o interrese nos anúncios porque já os viu muitas vezes, isso faz com que as métricas piorem.
+- O aumento da Frequência está causando **Fadiga de Anúncios**: Isso está relacionado a quantidade de vezes que a mesma pessoa vê o anúncio, ou seja, quando o público começa a ignorar ou perder o interrese nos anúncios porque já os viu muitas vezes, isso faz com que as métricas piorem.
 - **Deterioração Progressiva de Performance:** A campanha sofreu saturação progressiva sem ajustes estratégicos, a audiência foi queimada ao longo dos meses, levando a custos insustentáveis ao final do período.
 
 ---
@@ -171,3 +171,20 @@ e podemos observar que teve um aumento relevante do CPA no ultimo mês confirman
 ## Monitorar a frequência e o desempenho
   - Acompanhar no painel da campanha a Frequência Média, acima de 2.5 - 4 já pode indicar fadiga
   - Observar métricas com CTR, CPC e Conversões, se CTR cai e CPC sobe = sinal de fadiga
+
+## Renovar criativos regularmente
+  - Trocar imagens e videos a cada 2-4 semanas
+  - Mudar títulos e descrições, pequenas mudanças já reduz a sensação de repetição
+  - Testar diferentes formatos: carrosel, storys, videos curtos e reels.
+
+## Crie variaçoes de criativos (teste A/B)
+  - Faça 3-5 variaçoes do mesmo anúncio com pequenas diferenças
+  - Deixe o algoritmo aorender qual performa melhor
+  - Depois, pare os com pior resultados e os melhores renove com variações novas
+
+## Otimizar o orçamento e a entrega
+  - Se o anúncio está saturando, reduza o orçamento nele
+  - Direcione mais verbas para anúncios novos ou públicos que ainda não foi impactados
+---
+# 📩 Contato
+  [Linkedin](www.linkedin.com/in/gushtavoroberto) | 📧 almeida.gustavo0420@gmail.com 
