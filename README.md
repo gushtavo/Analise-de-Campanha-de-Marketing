@@ -5,7 +5,7 @@ Fui Solicitado para fazer uma análise de uma campanha de marketing, o gestor ch
 "Por que o CPA aumentou de forma significativa no ultimo mês?".
 
 Após uma conversa para entender melhor sobre o problema que isso tava gerando como por exemplo aumento dos gastos, conversões diminuindo e baixo retorno, partimos para Ação.
-- Nosso **Principal objetivo** é explorar relações entre métricas de performance e identificar fatores que influenciam o custo por aquisição(CPA)
+- Meu **Principal objetivo** é explorar relações entre métricas de performance e identificar fatores que influenciam o custo por aquisição(CPA)
 
 ---
 
