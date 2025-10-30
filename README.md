@@ -179,7 +179,7 @@ e podemos observar que teve um aumento relevante do CPA no ultimo mês confirman
 
 ## Crie variaçoes de criativos (teste A/B)
   - Faça 3-5 variaçoes do mesmo anúncio com pequenas diferenças
-  - Deixe o algoritmo aorender qual performa melhor
+  - Deixe o algoritmo aprender qual performa melhor
   - Depois, pare os com pior resultados e os melhores renove com variações novas
 
 ## Otimizar o orçamento e a entrega
