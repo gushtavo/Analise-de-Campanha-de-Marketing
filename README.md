@@ -187,4 +187,4 @@ e podemos observar que teve um aumento relevante do CPA no ultimo mês confirman
   - Direcione mais verbas para anúncios novos ou públicos que ainda não foi impactados
 ---
 # 📩 Contato
-  [Linkedin](www.linkedin.com/in/gushtavoroberto) | 📧 almeida.gustavo0420@gmail.com 
+  [Linkedin](https://www.linkedin.com/in/gushtavoroberto/) | 📧 almeida.gustavo0420@gmail.com 
